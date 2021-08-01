@@ -3,7 +3,7 @@ build scripts for openme on windows via git bash + ninja, because remembering th
 
 
 # how to use
-follow the [openmw dev environment setup](https://gitlab.com/OpenMW/openmw/-/wikis/development/development_environment_setup/Windows-(MSVC-2017-and-MSVC-2019)), making sure to install everything (specifically ninja), as well as the buildtools C++ Development whatever it's called from Visual Studio 2019.
+follow the [openmw dev environment setup](https://gitlab.com/OpenMW/openmw/-/wikis/development/development_environment_setup/Windows-(MSVC-2017-and-MSVC-2019)), making sure to install everything (specifically ninja), as well as the buildtools and C++ Development whatever it's called from Visual Studio 2019.
 
 once that's done, and you have cloned the repository via git clone, copy both files into the root folder (where the .gitignore, etc are).
 
